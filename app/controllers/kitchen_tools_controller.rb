@@ -1,0 +1,2 @@
+class KitchenToolsController < ApplicationController
+end
